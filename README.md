@@ -1,2 +1,2 @@
 # ToDoList
-Add note and save it in Realm
+Add note and save it in Realm/Core Data
