@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>14DB18A5-FD78-4FCD-8D74-9318FE0987A4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>14DB18A5-FD78-4FCD-8D74-9318FE0987A4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TODO List project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TODO List</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TODO List</string>
+			<key>timeStartedRecording</key>
+			<real>677089856.10941005</real>
+			<key>timeStoppedRecording</key>
+			<real>677089856.15791905</real>
+			<key>title</key>
+			<string>Build TODO List</string>
+			<key>uniqueIdentifier</key>
+			<string>14DB18A5-FD78-4FCD-8D74-9318FE0987A4</string>
+		</dict>
+		<key>4416A97C-9DE3-4F1B-8BBA-DF2DC2542CCD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4416A97C-9DE3-4F1B-8BBA-DF2DC2542CCD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TODO List project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TODO List</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TODO List</string>
+			<key>timeStartedRecording</key>
+			<real>677090130.62841904</real>
+			<key>timeStoppedRecording</key>
+			<real>677090131.89611995</real>
+			<key>title</key>
+			<string>Build TODO List</string>
+			<key>uniqueIdentifier</key>
+			<string>4416A97C-9DE3-4F1B-8BBA-DF2DC2542CCD</string>
+		</dict>
+		<key>8CCB565A-BFF4-450B-9A42-91636CF96A64</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8CCB565A-BFF4-450B-9A42-91636CF96A64.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TODO List project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TODO List</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TODO List</string>
+			<key>timeStartedRecording</key>
+			<real>677090123.40783298</real>
+			<key>timeStoppedRecording</key>
+			<real>677090126.38336205</real>
+			<key>title</key>
+			<string>Build TODO List</string>
+			<key>uniqueIdentifier</key>
+			<string>8CCB565A-BFF4-450B-9A42-91636CF96A64</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

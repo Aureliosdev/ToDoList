@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "2c895cf7258331bd78fcb26112e3e3b47c59692778e8fa36b0244e3429dcf56d"
+build_start_time: [1655397326, 55680990]
+build_end_time: [1655397326, 357424974]
+inputs:
+  "/Users/aurelioleclarke/Desktop/TODO List/TODO List/AppDelegate.swift": !private [1655394382, 594377040]
+  "/Users/aurelioleclarke/Desktop/TODO List/TODO List/SceneDelegate.swift": !private [1655394382, 596284389]
+  "/Users/aurelioleclarke/Desktop/TODO List/TODO List/ViewController.swift": !private [1655397050, 157392740]
